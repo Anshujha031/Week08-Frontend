@@ -12,3 +12,4 @@ else if (number === 5) console.log("Thursday");
 else if (number === 6) console.log("Friday");
 else if (number === 7) console.log("Saturday");
 else console.log("Invalid input! Please enter a number between 1 and 7.");
+

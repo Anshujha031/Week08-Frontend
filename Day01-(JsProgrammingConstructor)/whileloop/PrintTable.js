@@ -1,6 +1,7 @@
 const prompt = require('prompt-sync')();
 
 
+
 const n = parseInt(prompt("Enter a number (n): "));
 
 
